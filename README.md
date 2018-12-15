@@ -1,0 +1,1 @@
+# citylife-fn-mybatis-generator
